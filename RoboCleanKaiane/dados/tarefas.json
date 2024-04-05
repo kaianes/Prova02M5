@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nome": "varrer"
+    },
+    {
+        "id": 2,
+        "nome": "lavar"
+    },
+    {
+        "id": 3,
+        "nome": "passar"
+    },
+    {
+        "id": 4,
+        "nome": "cozinhar"
+    },
+    {
+        "id": 5,
+        "nome": "limpar"
+    },
+    {
+        "id": 6,
+        "nome": "organizar"
+    },
+    {
+        "id": 7,
+        "nome": "cuidar"
+    },
+    {
+        "id": 8,
+        "nome": "passear"
+    },
+    {
+        "id": 9,
+        "nome": "alimentar"
+    },
+    {
+        "id": 10,
+        "nome": "brincar"
+    }
+]

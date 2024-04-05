@@ -1,0 +1,19 @@
+{
+  "name": "testes_compras",
+  "version": "1.0.0",
+  "description": "prova_02_m5",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node index.js"
+  },
+  "author": "kaiane",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
